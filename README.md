@@ -1,0 +1,2 @@
+# likulator
+Likulator is an ML based model which estimates the organization's post performance, calculates its reach and gives you back reviews from the intended demographic. Basically it provides you with the inputs and insights of said content, to help you better judge your next and upcoming posts. If you could easily find the most liked features of your content and positively commented upon posts, to help you better design and manipulate your ongoing projects, wouldn't that be neat?  Well, that is exactly what Likulator is all about!
